@@ -1,0 +1,1 @@
+This is a custom macro keypad using a XIAO RP2040. It uses a 3x3 matrix and I designed the PCB in KiCad.
