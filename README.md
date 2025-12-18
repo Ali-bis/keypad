@@ -1,6 +1,6 @@
 # The Void Macro Pad (RP2040)
 
-![Top View Render](images/render_top.png)
+![Top View Render](/Screenshot 2025-12-18 151251.png)
 *> A programmable, open-source mechanical keypad powered by the Seeed XIAO RP2040.*
 
 ## 📖 Overview
