@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","D_Small","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","~"
+"OLED_SCREEN1","1","Conn_01x04_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","MX_Switch","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"SW10","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"U1","1","XIAO_RP2040","","","","ali_footprints:XIAO-RP2040-SMD",""
