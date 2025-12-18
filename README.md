@@ -1,8 +1,8 @@
 The Void Macro Pad\
 
 This custom 3x3 mechanical keypad was designed to give me a speed boost in Blender and coding. It's built around CircuitPython so I can easily remap the keys without worrying about messing with the code.
-![My Project Screenshot](keypad/images/Screenshot%202025-12-18%20151251.png)
-
+![My Project Screenshot 1](keypad/images/pic1)
+![My Project Screenshot 2](keypad/images/pic2)
 Why I wanted to build this\
 
 I got tired of having to remember a million key combos for simple tasks like Saving, Undoing, and Rendering. It was really slowing me down. Plus I had a hankering to learn how to design a PCB from scratch using the Seeed XIAO board. (Also, I thought it would be a blast!)
